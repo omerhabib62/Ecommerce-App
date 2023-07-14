@@ -12,7 +12,7 @@ Learning Sources:
 2. i. Project in cmd = startproject
    ii. App in cmd = startapp
 3. URLS are not there , need to create a file for URLs in an app and then add to the project/urls.py
-4. The <u>path()</u> function is passed four arguments, two required: route and view, and two optional: kwargs, and name. At this point, it’s worth reviewing what these arguments are for.
+4. The <ins>path()</ins> function is passed four arguments, two required: route and view, and two optional: kwargs, and name. At this point, it’s worth reviewing what these arguments are for.
 
 ### Favourite Extensions
 1. Python - by Microsoft
