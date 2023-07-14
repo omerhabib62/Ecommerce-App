@@ -13,7 +13,8 @@ python -m venv djangoenv (bash)
 
 ### To activate , VEnvironment 
 
-source djangoenv/bin/activate (bash)
+```  source djangoenv/bin/activate (bash)  ```
+``` djangoenv\Scripts\activate (cmd) ``` 
 
 To confirm, its activate (environment name = djangoenv) before dir in cmd and also type pip freeze and it should return empty by default because we haven't installed any my default.
 
@@ -21,7 +22,7 @@ To confirm, its activate (environment name = djangoenv) before dir in cmd and al
 ``` pip install django (bash) ```
 
 ### Install Django project
-``` django-admin startproject obhEcommerce (if bash) ```
+``` django-admin startproject obhEcommerce (bash) ```
 
 ### Run Django project server
 ``` python manage.py runserver ```
