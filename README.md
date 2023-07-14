@@ -4,6 +4,7 @@ Learning to create Django website from scratch. The app is created is Django app
 Learning Sources: 
 1. [Ecommerce Tutorial](https://www.youtube.com/watch?v=YZvRrldjf1Y&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&ab_channel=freeCodeCamp.org)
 2. [Full Stack Development course in the Cloud - Svelte, Postgres, Vercel, Gitpod - for learning working on gitpod](https://www.youtube.com/watch?v=OUzaUJ3gEug&t=10s&ab_channel=freeCodeCamp.org)
+3. [Django Docs](https://docs.djangoproject.com/)
 
 
 ## Working in git bash environment
